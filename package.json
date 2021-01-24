@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio site with nextJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktmDeveloper/NextJS-Portfolio.git"
+  },
+  "author": "shalindra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktmDeveloper/NextJS-Portfolio/issues"
+  },
+  "homepage": "https://github.com/ktmDeveloper/NextJS-Portfolio#readme"
+}
